@@ -14,3 +14,6 @@ Boilerplate implementado no curso de React Avançado, utilizando as tecnologias:
 - Plop
 - Dependabot + github actions
 
+### Para iniciar um projeto nextJS usando este boilerplate:
+
+`npx create-next-app -e https://github.com/malufell/react-avancado-boilerplate`
